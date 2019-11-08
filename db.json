@@ -10,5 +10,11 @@
   ],
   "profile": {
     "name": "rayhan"
-  }
+  },
+  "medicines": [
+    { "id": 1, "medicine":"NAPA","time":["09:00 AM","01:00 PM","10:00 PM"],"duration":30,"dueDuration":7},
+    { "id": 2, "medicine":"Anziloc","time":["09:05 AM","01:05 PM","10:05 PM"],"duration":10,"dueDuration":5},
+    { "id": 3, "medicine":"Bumetanide(Bumex)","time":["09:00 AM","01:10 PM","10:10 PM"],"duration":20,"dueDuration":9},
+    { "id": 4, "medicine":"Rolck","time":["09:15 AM","03:50 PM","10:15 PM"],"duration":30,"dueDuration":10}
+  ]
 }
