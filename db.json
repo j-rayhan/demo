@@ -12,7 +12,7 @@
     "name": "rayhan"
   },
   "medicines": [
-    { "id": 1, "medicine":"NAPA","med_eat_time":"09:00 AM\n 01:00 PM\n 11:54 PM","duration":30,"due_duration":7},
+    { "id": 1, "medicine":"NAPA","med_eat_time":"09:00 AM\n 01:00 PM\n 00:33 AM","duration":30,"due_duration":7},
     { "id": 2, "medicine":"Anziloc","med_eat_time":"09:05 AM\n 01:05 PM\n 10:05 PM","duration":10,"due_duration":5},
     { "id": 3, "medicine":"Bumetanide(Bumex)","med_eat_time":"09:00 AM\n 01:10 PM\n 10:10 PM","duration":20,"due_duration":9},
     { "id": 4, "medicine":"Rolck","med_eat_time":"09:15 AM\n 03:50 PM\n 10:15 PM","duration":30,"due_duration":10}
