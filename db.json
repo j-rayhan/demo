@@ -12,5 +12,11 @@
       "body": "Joe Ritchie-Bennett had lived in the UK for 15 years, his father confirmed to US TV network CBS. His friend James Furlong and one other person also died.", 
       "categories": [1, 3, 4] 
     }
+  ],
+  "categories": [
+    { "id": 1, "name": "News" },
+    { "id": 2, "name": "Sport" },
+    { "id": 3, "name": "Travel" },
+    { "id": 4, "name": "Culture" }
   ]
 }
